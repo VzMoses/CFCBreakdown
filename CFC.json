@@ -16,7 +16,8 @@
     "PWRNE" : "GRPNE"
   },
 	"conferences": [{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "BAMA",
 					"prestige": "92",
 					"hexColor": "#9E1B32",
@@ -532,7 +533,8 @@
 			"confName": "PWRSE"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "CCU",
 					"prestige": "50",
 					"hexColor": "#006F71",
@@ -1048,7 +1050,8 @@
 			"confName": "GRPSE"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "UMD",
 					"prestige": "45",
 					"hexColor": "#E03A3E",
@@ -1564,7 +1567,8 @@
 			"confName": "PWRNE"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "ARMY",
 					"prestige": "58",
 					"hexColor": "#000000",
@@ -2080,7 +2084,8 @@
 			"confName": "GRPNE"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "BAY",
 					"prestige": "55",
 					"hexColor": "#003015",
@@ -2596,7 +2601,8 @@
 			"confName": "PWRSO"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "HOU",
 					"prestige": "55",
 					"hexColor": "#C8102E",
@@ -3112,7 +3118,8 @@
 			"confName": "GRPSO"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "ARK",
 					"prestige": "60",
 					"hexColor": "#9D2235",
@@ -3577,7 +3584,8 @@
 			"confName": "PWRCE"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "AFA",
 					"prestige": "50",
 					"hexColor": "#00308F",
@@ -4093,7 +4101,8 @@
 			"confName": "GRPCE"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "IND",
 					"prestige": "59",
 					"hexColor": "#990000",
@@ -4609,7 +4618,8 @@
 			"confName": "PWRNO"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "BALL",
 					"prestige": "50",
 					"hexColor": "#002664",
@@ -5125,7 +5135,8 @@
 			"confName": "GRPNO"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "ASU",
 					"prestige": "66",
 					"hexColor": "#8C1D40",
@@ -5226,7 +5237,7 @@
 					},
 					"name": "Arizona Wildcats",
 					"state": "Arizona"
-				}
+				},
 				{
 					"abbreviation": "CAL",
 					"prestige": "55",
@@ -5641,7 +5652,8 @@
 			"confName": "PWRWE"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "BSU",
 					"prestige": "69",
 					"hexColor": "#0033A0",
