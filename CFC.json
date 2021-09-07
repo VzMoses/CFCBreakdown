@@ -15,7 +15,8 @@
     "PWRNO" : "GRPNO",
     "PWRNE" : "GRPNE"
   },
-	"conferences": [{
+	"conferences": [
+		{
 			"confTeams": [
 				{
 					"abbreviation": "BAMA",
